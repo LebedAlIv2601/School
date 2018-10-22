@@ -1,0 +1,67 @@
+body{
+	background-image: url(http://view-photo.ru/wp-content/uploads/2015/09/DSC09658.jpg)
+}
+.zag{
+	font-size: 64px;
+	font-family: "Monotype Corsiva";
+	color: #f7ef00;
+}
+.dost{
+		font-size: 48px;
+	font-family: "Monotype Corsiva";
+	color: #f7ef00;
+}
+.imgOne{
+	height: 50%;
+	width: 100%;
+}
+.nomer{
+	font-size: 16px;
+	margin-top: 5%;
+	margin-left: 50%;
+}
+/*.header{
+	background-color: #2ecc71;
+}*/
+.imgTwo{
+	margin-top: 5%;
+	height: 100%;
+	width: 100%;
+}
+.zakaz{
+	margin-top:2.5%;
+	font-size: 24px;
+		font-family: "Monotype Corsiva";
+	color: #f7ef00;
+}
+.zakaz1{
+	margin-top:2.5%;
+	font-size: 24px;
+		font-family: "Monotype Corsiva";
+	color: #f7ef00;
+	background-color: #2600bd;
+}
+.form-control{
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%; 
+}
+.btn{
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%; 
+}
+.selKind{
+	width: 5s%;
+}
+.kinds{
+	margin-top: 5%;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+/*.podval{
+	background-color: #2ecc71;
+}*/
